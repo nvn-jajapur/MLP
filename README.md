@@ -1,26 +1,13 @@
+# CS-5703 • Machine Learning Practice (MLP)
+### Assignment & Project Notebook Collection
 
-Each notebook is *self-contained*: it explains the theory, includes starter code, and marks **TODO** cells for your implementation.
+> **University of Oklahoma – Spring 2025**  
+> Maintainer: **Naveen Jajapur**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11-blue.svg)](https://www.python.org/)
 
 ---
 
-## 🚀 Quick-start (pip + venv)
+## 📑 Repository layout
 
-> Works on **Python 3.9 – 3.11**
-
-```bash
-# 1 Clone the repo
-git clone https://github.com/YOUR_USERNAME/CS-5703-MLP.git
-cd CS-5703-MLP
-
-# 2 (Optional) create an isolated environment
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS / Linux:
-source .venv/bin/activate
-
-# 3 Install dependencies
-pip install -r requirements.txt
-
-# 4 Launch Jupyter and open any notebook
-jupyter notebook          # or: jupyter lab
