@@ -39,7 +39,7 @@
 ## 🚀 Quick-start (pip + venv)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CS-5703-MLP.git
+git clone https://github.com/nvn-jajapur/CS-5703-MLP.git
 cd CS-5703-MLP
 
 python -m venv .venv
